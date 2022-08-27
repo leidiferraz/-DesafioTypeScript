@@ -1,2 +1,1 @@
-# -DesafioTypeScript
-Aprendendo TypeScript
+# BugerEats
